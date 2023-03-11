@@ -1,1 +1,1 @@
-# Higher-Lower-Game
+# Higher-Lower-Game through the console 
